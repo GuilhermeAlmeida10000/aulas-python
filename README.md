@@ -1,4 +1,4 @@
-
+<img src="imagens/1.png">
 # Seja bem vindo à Monitoria!
 
 Fala aí, tudo beleza? Seja bem vindo ao repositório oficial da Monitoria de Algoritmos e Programação I !
